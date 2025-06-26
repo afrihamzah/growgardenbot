@@ -27,6 +27,7 @@ KEYWORDS = [
     'Paradise',
     'Mythical Egg',
     'Rare Summer Egg',
+    'Tomato'
 
     # Tambahkan item lain di sini
 ]
