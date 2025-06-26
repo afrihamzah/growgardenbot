@@ -14,14 +14,20 @@ BOT_TOKEN = os.getenv('BOT_TOKEN')
 YOUR_CHAT_ID = os.getenv('CHAT_ID')
 
 # Username channel sumber (diawali dengan '@')
-SOURCE_CHANNEL_USERNAME = 'GrowGardenInfoChannel' # GANTI DENGAN USERNAME CHANNEL YANG BENAR
+SOURCE_CHANNEL_USERNAME = '@growagardenlivestock' # GANTI DENGAN USERNAME CHANNEL YANG BENAR
 
 # Daftar item yang Anda inginkan (gunakan huruf kecil semua)
 KEYWORDS = [
-    'recall wrench',
-    'banana',
-    'blueberry',
-    'strawberry'
+    'Master Sprinkler',
+    'Sugar Apple',
+    'Feijoa',
+    'Prickly Pear',
+    'Loquat',
+    'Bug Egg',
+    'Paradise',
+    'Mythical Egg',
+    'Rare Summer Egg',
+
     # Tambahkan item lain di sini
 ]
 # --- AKHIR KONFIGURASI ---
