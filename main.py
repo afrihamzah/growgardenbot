@@ -27,7 +27,7 @@ KEYWORDS = [
     'paradise',
     'mythical egg',
     'rare summer egg',
-    'tomato'
+    'weather event alert'
 ]
 # --- AKHIR KONFIGURASI ---
 
