@@ -27,7 +27,10 @@ KEYWORDS = [
     'paradise',
     'mythical egg',
     'rare summer egg',
-    'weather event alert'
+    'weather event alert',
+    'oasis egg',
+    'pitcher plant',
+    'bee egg'
 ]
 # --- AKHIR KONFIGURASI ---
 
