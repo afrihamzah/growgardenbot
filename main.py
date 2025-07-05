@@ -20,18 +20,20 @@ SOURCE_CHANNEL_USERNAME = 'growagardenlivestock' # GANTI DENGAN USERNAME CHANNEL
 KEYWORDS = [
     'master sprinkler',
     'sugar apple',
-    'feijoa',
-    'prickly pear',
-    'loquat',
     'bug egg',
     'paradise',
     'mythical egg',
     'rare summer egg',
-    'weather event alert', 
-    'oasis egg',
-    'pitcher plant',
     'bee egg',
-    'traveler'
+    'coconut',
+    'mango',
+    'grape',
+    'mushroom',
+    'papper',
+    'cacao',
+    'beanstalk',
+    'ember lily',
+    'burnimg'
 ]
 # --- AKHIR KONFIGURASI ---
 
